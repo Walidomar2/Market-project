@@ -61,5 +61,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "api.Controllers.StockController",
+    "Method": "Delete",
+    "RelativePath": "api/stock/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

@@ -7,26 +7,6 @@
       "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\dtos\\stock\\updatestockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:dtos\\stock\\updatestockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\dtos\\stock\\createstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:dtos\\stock\\createstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,71 +22,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 675,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateStockDto.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Dtos\\Stock\\UpdateStockDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Stock\\UpdateStockDto.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Dtos\\Stock\\UpdateStockDto.cs",
-              "RelativeToolTip": "Dtos\\Stock\\UpdateStockDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T18:38:22.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateStockDto.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Dtos\\Stock\\CreateStockDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Stock\\CreateStockDto.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Dtos\\Stock\\CreateStockDto.cs",
-              "RelativeToolTip": "Dtos\\Stock\\CreateStockDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:44:39.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StockMapper.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Mappers\\StockMapper.cs",
-              "RelativeDocumentMoniker": "Mappers\\StockMapper.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Mappers\\StockMapper.cs",
-              "RelativeToolTip": "Mappers\\StockMapper.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:23:35.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Stock.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Models\\Stock.cs",
-              "RelativeDocumentMoniker": "Models\\Stock.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Models\\Stock.cs",
-              "RelativeToolTip": "Models\\Stock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:21:21.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StockDto.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Dtos\\Stock\\StockDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Stock\\StockDto.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Dtos\\Stock\\StockDto.cs",
-              "RelativeToolTip": "Dtos\\Stock\\StockDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:21:08.654Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -115,14 +32,14 @@
               "RelativeDocumentMoniker": "Controllers\\StockController.cs",
               "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\StockController.cs",
               "RelativeToolTip": "Controllers\\StockController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAowEgAAAAJAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwFkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T12:10:33.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -134,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -153,10 +70,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",

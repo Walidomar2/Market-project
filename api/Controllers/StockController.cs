@@ -3,6 +3,7 @@ using System;
 using api.Data;
 using api.Mappers;
 using api.Dtos.Stock;
+using System.Reflection.Metadata.Ecma335;
 
 
 namespace api.Controllers
@@ -48,6 +49,27 @@ namespace api.Controllers
             _context.SaveChanges();
 
             return CreatedAtAction(nameof(GetById),new {id = CreatedStock.Id}, CreatedStock.ToStockDto());    
+        }
+
+        [HttpPut]
+        [Route("{id}")]
+        public IActionResult Update([FromRoute] int id,[FromBody] UpdateStockDto UpdatedDto)
+        {
+            var stock = _context.Stocks.FirstOrDefault(x => x.Id == id);
+
+            if(stock == null)
+            {
+                return NotFound();
+            }
+
+            stock.Symbol = UpdatedDto.Symbol;
+            stock.CompanyName = UpdatedDto.CompanyName;
+            stock.Purchase = UpdatedDto.Purchase;
+            stock.LastDiv = UpdatedDto.LastDiv;
+            stock.MarketCap = UpdatedDto.MarketCap;
+            
+            _context.SaveChanges();
+            return Ok(stock.ToStockDto());
         }
     }
 }

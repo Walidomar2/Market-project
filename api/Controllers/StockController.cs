@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using api.Data;
+using api.Mappers;
+using api.Dtos.Stock;
 
 
 namespace api.Controllers
@@ -19,8 +21,7 @@ namespace api.Controllers
         [HttpGet]
         public IActionResult Get() 
         {
-            var stocks = _context.Stocks.ToList();
-
+            var stocks = _context.Stocks.ToList().Select(s => s.ToStockDto());
             return Ok(stocks); //return after  successfully operation from HTTP
         }
 
@@ -36,6 +37,17 @@ namespace api.Controllers
             }
             
             return Ok(stock);
-        }   
+        }
+
+        // POSTing Method
+        [HttpPost]
+        public IActionResult Create([FromBody] CreateStockDto newstock)
+        {
+            var CreatedStock = newstock.ToStockFromCreateDto();
+            _context.Stocks.Add(CreatedStock);
+            _context.SaveChanges();
+
+            return CreatedAtAction(nameof(GetById),new {id = CreatedStock.Id}, CreatedStock.ToStockDto());    
+        }
     }
 }

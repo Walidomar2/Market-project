@@ -135,3 +135,4 @@ D:\courses\c# .net\ASP.Net project\Store\api\obj\Debug\net8.0\refint\api.dll
 D:\courses\c# .net\ASP.Net project\Store\api\obj\Debug\net8.0\api.pdb
 D:\courses\c# .net\ASP.Net project\Store\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\courses\c# .net\ASP.Net project\Store\api\obj\Debug\net8.0\ref\api.dll
+D:\courses\c# .net\ASP.Net project\Store\api\obj\Debug\net8.0\api.sourcelink.json

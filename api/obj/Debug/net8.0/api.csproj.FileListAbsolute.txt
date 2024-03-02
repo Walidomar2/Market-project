@@ -136,3 +136,7 @@ D:\courses\c# .net\ASP.Net project\Store\api\obj\Debug\net8.0\api.pdb
 D:\courses\c# .net\ASP.Net project\Store\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\courses\c# .net\ASP.Net project\Store\api\obj\Debug\net8.0\ref\api.dll
 D:\courses\c# .net\ASP.Net project\Store\api\obj\Debug\net8.0\api.sourcelink.json
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

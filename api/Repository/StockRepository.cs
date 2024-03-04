@@ -44,17 +44,18 @@ namespace api.Repository
             if (!string.IsNullOrWhiteSpace(Query.Symbol))
             {
                 stocks = stocks.Where(s => s.Symbol.Contains(Query.Symbol));
-                return stocks.ToList();
+               
             }
-            else if (!string.IsNullOrWhiteSpace(Query.CompanyName))
+
+            if (!string.IsNullOrWhiteSpace(Query.CompanyName))
             {
                 stocks = stocks.Where(s => s.CompanyName.Contains(Query.CompanyName));
-                return stocks.ToList();
+                
             }
-            else
-            {
-                return stocks.ToList();
-            }
+
+            var SkipNumber = (Query.PageNumber - 1) * Query.PageSize;
+           
+             return stocks.Skip(SkipNumber).Take(Query.PageSize).ToList();   
         }
 
         public async Task<Stock?> GetByIdAsync(int id)

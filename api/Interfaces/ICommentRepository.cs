@@ -8,5 +8,6 @@ namespace api.Interfaces
         public Task<List<Comment>> GetAllAsync();
         public Task<Comment?> GetByIdAsync(int id);
         public Task<Comment?> CreateAsync(Comment CommentModel);
+        public Task<Comment?> DeleteAsync(int id);
     }
 }

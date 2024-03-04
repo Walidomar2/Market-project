@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 386,
+          "DockedHeight": 545,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBIAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T12:00:55.606Z",
               "EditorCaption": ""
@@ -32,7 +32,7 @@
           ]
         },
         {
-          "DockedHeight": 342,
+          "DockedHeight": 183,
           "SelectedChildIndex": -1,
           "Children": [
             {

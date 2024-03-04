@@ -1,4 +1,5 @@
-﻿using api.Models;
+﻿using api.Dtos.comment;
+using api.Models;
 
 namespace api.Interfaces
 {
@@ -6,5 +7,6 @@ namespace api.Interfaces
     {
         public Task<List<Comment>> GetAllAsync();
         public Task<Comment?> GetByIdAsync(int id);
+        public Task<Comment?> CreateAsync(Comment CommentModel);
     }
 }

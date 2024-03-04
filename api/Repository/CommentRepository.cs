@@ -1,4 +1,5 @@
 ﻿using api.Data;
+using api.Dtos.comment;
 using api.Interfaces;
 using api.Models;
 using Microsoft.EntityFrameworkCore;
@@ -12,6 +13,15 @@ namespace api.Repository
         {
             _context = context;
         }
+
+        public async Task<Comment?> CreateAsync(Comment CommentModel)
+        {
+            await _context.Comments.AddAsync(CommentModel);
+            await _context.SaveChangesAsync();
+
+            return CommentModel;
+        }
+
         public async Task<List<Comment>> GetAllAsync()
         {
             return await _context.Comments.ToListAsync();

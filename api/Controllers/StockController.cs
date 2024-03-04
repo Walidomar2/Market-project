@@ -33,7 +33,7 @@ namespace api.Controllers
         }
 
         // Getting one stock by id 
-        [HttpGet("{id}")]
+        [HttpGet("{id:int}")]
         public async Task<IActionResult> GetById([FromRoute] int id) 
         {
             var stock = await _stockRepository.GetByIdAsync(id);
@@ -57,7 +57,7 @@ namespace api.Controllers
         }
 
         [HttpPut]
-        [Route("{id}")]
+        [Route("{id:int}")]
         public async Task<IActionResult> Update([FromRoute] int id,[FromBody] UpdateStockDto UpdatedDto)
         {
             var stock = await _stockRepository.UpdateAsync(id, UpdatedDto);
@@ -71,7 +71,7 @@ namespace api.Controllers
         }
 
         [HttpDelete]
-        [Route("{id}")]
+        [Route("{id:int}")]
         public async Task<IActionResult> Delete([FromRoute] int id)
         {
             var stock = await _stockRepository.DeleteAsync(id);

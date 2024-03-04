@@ -1,8 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace api.Dtos.comment
+﻿namespace api.Dtos.comment
 {
-    public class CreateCommentDto
+    public class UpdateCommentDto
     {
         public string Title { get; set; } = string.Empty;
         public string Content { get; set; } = string.Empty;

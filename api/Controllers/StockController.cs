@@ -6,6 +6,7 @@ using api.Dtos.Stock;
 using System.Reflection.Metadata.Ecma335;
 using Microsoft.EntityFrameworkCore;
 using api.Interfaces;
+using api.Helpers;
 
 
 namespace api.Controllers
@@ -25,12 +26,12 @@ namespace api.Controllers
 
         // Getting all Stocks list
         [HttpGet]
-        public async Task<IActionResult> Get() 
+        public async Task<IActionResult> Get([FromQuery] QueryObject Query) 
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            var stocks = await _stockRepository.GetAllAsync();
+            var stocks = await _stockRepository.GetAllAsync(Query);
             var stocksDto = stocks.Select(s => s.ToStockDto());
             return Ok(stocksDto); //return after  successfully operation from HTTP
         }

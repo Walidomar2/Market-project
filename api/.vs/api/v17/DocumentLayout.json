@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,7 +33,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 440,
+          "DockedHeight": 198,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -34,7 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Account\\RegisterDto.cs",
+              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\Account\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:44:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:33:08.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -42,36 +76,38 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-06T17:53:00.576Z"
+              "WhenOpened": "2024-03-06T17:53:00.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T17:34:46.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAQwE8AAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:00:55.606Z"
+              "WhenOpened": "2024-03-01T12:00:55.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
@@ -79,12 +115,13 @@
               "RelativeToolTip": "Models\\AppUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T17:33:42.448Z"
+              "WhenOpened": "2024-03-06T17:33:42.448Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 288,
+          "DockedHeight": 530,
           "SelectedChildIndex": -1,
           "Children": [
             {

@@ -18,5 +18,18 @@ namespace api.Data
         {
            
         }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+
+            List<IdentityRole> identityRoles = new List<IdentityRole>
+            {
+                new IdentityRole{Name = "Admin", NormalizedName = "ADMIN"},
+                new IdentityRole{Name = "User", NormalizedName = "USER"}
+            };             
+
+            builder.Entity<IdentityRole>().HasData(identityRoles);
+        }
     }
 }

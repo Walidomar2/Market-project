@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "api.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/account/Registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDtoModel",
+        "Type": "api.Dtos.Account.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "api.Controllers.CommentsController",
     "Method": "GetAll",
     "RelativePath": "api/comment",
@@ -99,6 +115,16 @@
       {
         "Name": "CompanyName",
         "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
         "IsRequired": false
       }
     ],

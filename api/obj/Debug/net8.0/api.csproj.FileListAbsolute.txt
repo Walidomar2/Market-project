@@ -140,3 +140,14 @@ D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.AspNetCo
 D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\EntityFramework.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\courses\c# .net\ASP.Net project\Store\api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

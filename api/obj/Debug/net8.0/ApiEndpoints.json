@@ -116,6 +116,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "api.Controllers.PortfolioController",
+    "Method": "GetUserPortfolio",
+    "RelativePath": "api/portfolio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "api.Controllers.StockController",
     "Method": "Get",
     "RelativePath": "api/stock",

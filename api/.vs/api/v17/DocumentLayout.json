@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,36 +35,12 @@
       "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\interfaces\\iportfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:interfaces\\iportfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|d:\\courses\\c# .net\\asp.net project\\store\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D4A00C0-2D92-4BB9-9E0F-E05A5F34422F}|api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,8 +49,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 656,
-          "SelectedChildIndex": 11,
+          "DockedHeight": 664,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,200 +58,136 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StockMapper.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Mappers\\StockMapper.cs",
-              "RelativeDocumentMoniker": "Mappers\\StockMapper.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Mappers\\StockMapper.cs",
-              "RelativeToolTip": "Mappers\\StockMapper.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwB0AAAAtAAAA",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T14:00:50.116Z",
+              "WhenOpened": "2024-03-10T16:06:34.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClaimsExtensions.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Extensions\\ClaimsExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\ClaimsExtensions.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Extensions\\ClaimsExtensions.cs",
-              "RelativeToolTip": "Extensions\\ClaimsExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T13:53:19.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StockController.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\StockController.cs",
-              "RelativeToolTip": "Controllers\\StockController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwD4AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T13:48:41.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CommentMapper.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Mappers\\CommentMapper.cs",
-              "RelativeDocumentMoniker": "Mappers\\CommentMapper.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Mappers\\CommentMapper.cs",
-              "RelativeToolTip": "Mappers\\CommentMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T13:48:04.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CommentDto.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Dtos\\comment\\CommentDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\comment\\CommentDto.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Dtos\\comment\\CommentDto.cs",
-              "RelativeToolTip": "Dtos\\comment\\CommentDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T13:47:38.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Repository\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\CommentRepository.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Repository\\CommentRepository.cs",
-              "RelativeToolTip": "Repository\\CommentRepository.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T13:42:20.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CommentsController.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\CommentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\CommentsController.cs",
-              "RelativeToolTip": "Controllers\\CommentsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T13:26:15.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "Models\\Comment.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Models\\Comment.cs",
-              "RelativeToolTip": "Models\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:45:48.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StockRepository.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Repository\\StockRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\StockRepository.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Repository\\StockRepository.cs",
-              "RelativeToolTip": "Repository\\StockRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwFYAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T19:14:57.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IStockRepository.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Interfaces\\IStockRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IStockRepository.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Interfaces\\IStockRepository.cs",
-              "RelativeToolTip": "Interfaces\\IStockRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T19:14:30.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T19:13:15.169Z",
+              "WhenOpened": "2024-03-10T16:03:31.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IPortfolioRepository.cs",
-              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Interfaces\\IPortfolioRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IPortfolioRepository.cs",
-              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Interfaces\\IPortfolioRepository.cs",
-              "RelativeToolTip": "Interfaces\\IPortfolioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T19:11:50.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "PortfolioRepository.cs",
               "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Repository\\PortfolioRepository.cs",
               "RelativeDocumentMoniker": "Repository\\PortfolioRepository.cs",
               "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Repository\\PortfolioRepository.cs",
               "RelativeToolTip": "Repository\\PortfolioRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T19:11:43.36Z"
+              "WhenOpened": "2024-03-10T15:58:09.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "PortfolioController.cs",
               "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\PortfolioController.cs",
               "RelativeDocumentMoniker": "Controllers\\PortfolioController.cs",
               "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\PortfolioController.cs",
               "RelativeToolTip": "Controllers\\PortfolioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T19:00:44.736Z",
+              "WhenOpened": "2024-03-10T15:46:19.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StockRepository.cs",
+              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "Repository\\StockRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:30:33.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IStockRepository.cs",
+              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "Interfaces\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:30:14.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:19:39.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockMapper.cs",
+              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Mappers\\StockMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\StockMapper.cs",
+              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Mappers\\StockMapper.cs",
+              "RelativeToolTip": "Mappers\\StockMapper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:07:22.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-10T14:57:39.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\courses\\c# .net\\ASP.Net project\\Store\\api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAowCkAAAAAAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:00:55.606Z"
+              "WhenOpened": "2024-03-01T12:00:55.606Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 72,
+          "DockedHeight": 64,
           "SelectedChildIndex": -1,
           "Children": [
             {

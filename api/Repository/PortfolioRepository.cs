@@ -1,8 +1,11 @@
-﻿using api.Data;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using api.Data;
 using api.Interfaces;
 using api.Models;
-using System.Data.Entity;
-using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace api.Repository
 {

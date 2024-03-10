@@ -59,27 +59,6 @@
   },
   {
     "ContainingType": "api.Controllers.CommentsController",
-    "Method": "Create",
-    "RelativePath": "api/comment/{id}",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "CreateComment",
-        "Type": "api.Dtos.comment.CreateCommentDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "api.Controllers.CommentsController",
     "Method": "Delete",
     "RelativePath": "api/comment/{id}",
     "HttpMethod": "DELETE",
@@ -110,6 +89,27 @@
       {
         "Name": "UpdateComment",
         "Type": "api.Dtos.comment.UpdateCommentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "api.Controllers.CommentsController",
+    "Method": "Create",
+    "RelativePath": "api/comment/{symbol}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbol",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "CreateComment",
+        "Type": "api.Dtos.comment.CreateCommentDto",
         "IsRequired": true
       }
     ],

@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using api.Extensions;
 using api.Interfaces;
 using api.Models;
+using api.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -18,15 +19,18 @@ namespace api.Controllers
         private readonly UserManager<AppUser> _userManager;
         private readonly IStockRepository _stockRepository; 
         private readonly IPortfolioRepository _portfolioRepo;
+        private readonly IFMPService _fmpService;
 
         public PortfolioController(UserManager<AppUser> userManager, 
             IStockRepository stockRepository,
-            IPortfolioRepository portfolioRepo
+            IPortfolioRepository portfolioRepo,
+            IFMPService fmpService
             )
         {
             _userManager = userManager; 
             _stockRepository = stockRepository;
             _portfolioRepo = portfolioRepo;
+            _fmpService = fmpService;
         }
 
         [HttpGet]
@@ -47,13 +51,24 @@ namespace api.Controllers
             var appUser = await _userManager.FindByNameAsync(userName);
             var stock = await _stockRepository.GetBySymbolAsync(symbol);
 
-            if (stock == null) return BadRequest("Stock Not Found");
+            if (stock == null)
+            {
+                stock = await _fmpService.FindStockBySymbolAsync(symbol);
+
+                if (stock == null)
+                {
+                    return BadRequest("This stock Not available");
+                }
+                else
+                {
+                     await _stockRepository.CreateAsync(stock);
+                }
+            }
 
             var userPortfolio = await _portfolioRepo.GetUserPortfolioAsync(appUser);
 
             if (userPortfolio.Any(p => p.Symbol.ToLower() == symbol.ToLower()))
                 return BadRequest("Can't add same stock to portfolio");
-
 
             var portfolio = new Portfolio
             {

@@ -1,10 +1,13 @@
 ﻿using api.Dtos.Account;
 using api.Interfaces;
 using api.Models;
+using System.Threading.Tasks;
 using api.Services;
+using System.Linq;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace api.Controllers
 {
